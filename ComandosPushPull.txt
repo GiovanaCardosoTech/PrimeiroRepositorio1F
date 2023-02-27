@@ -1,0 +1,5 @@
+Comandos Pull e Push
+
+Push - significa empurrar, corresponde ao ato de enviar do repositório Local (GIT) para o repositório remoto (GitHub).
+
+Pull - significa puxar, correponde ao ato contrário, pegar uma versão do repositório remoto (GitHub) para o repositório local (GIT).
